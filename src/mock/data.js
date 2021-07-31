@@ -53,6 +53,15 @@ export const projectsData = [
     url: 'https://typingtest.chiragsaini.xyz/',
     repo: 'https://github.com/ChiragSaini/typing-test', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'weather.png',
+    title: 'Weather App PWA',
+    info: 'A Weather App made to demonstarte PWA functionalities in a website',
+    info2: 'Made in React',
+    url: 'https://weather.chiragsaini.xyz/',
+    // repo: 'https://github.com/ChiragSaini/typing-test', // if no repo, the button will not show up
+  },
 ];
 
 // CONTACT DATA
